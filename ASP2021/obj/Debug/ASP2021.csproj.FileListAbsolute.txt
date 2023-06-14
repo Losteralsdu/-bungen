@@ -1,0 +1,12 @@
+D:\Übung\ASP2021\bin\Debug\ASP2021.exe.config
+D:\Übung\ASP2021\bin\Debug\ASP2021.exe
+D:\Übung\ASP2021\bin\Debug\ASP2021.pdb
+D:\Übung\ASP2021\obj\Debug\ASP2021.csproj.AssemblyReference.cache
+D:\Übung\ASP2021\obj\Debug\ASP2021.csproj.SuggestedBindingRedirects.cache
+D:\Übung\ASP2021\obj\Debug\ASP2021.Properties.Resources.resources
+D:\Übung\ASP2021\obj\Debug\ASP2021.csproj.GenerateResource.cache
+D:\Übung\ASP2021\obj\Debug\ASP2021.csproj.CoreCompileInputs.cache
+D:\Übung\ASP2021\obj\Debug\ASP2021.exe
+D:\Übung\ASP2021\obj\Debug\ASP2021.pdb
+D:\Übung\ASP2021\obj\Debug\ASP2021.Form1.resources
+D:\Übung\ASP2021\obj\Debug\ASP2021.FormSportart.resources
